@@ -1,6 +1,3 @@
-## ams-theme-boilerplate
-WordPress theme boilerplate for AM Solutions internal usage. it includes the following
-
 ### Features
 - Automatic SASS conversion to CSS when you save the file.
 - Automatically adds the prefixes to your CSS for cross-browser compatibility.
