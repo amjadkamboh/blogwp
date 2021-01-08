@@ -1,0 +1,12 @@
+.DS_Store
+/composer.lock
+/phpcs.xml
+node_modules/
+vendor/
+yarn-error.log
+yarn.lock
+
+# Artifacts
+process.yml
+*.zip
+*.*.json

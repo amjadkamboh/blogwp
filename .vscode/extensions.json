@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "wongjn.php-sniffer",
+        "ikappas.phpcs",
+        "dbaeumer.vscode-eslint"
+    ]
+}
