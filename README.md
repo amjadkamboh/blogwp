@@ -20,7 +20,7 @@ Install nodejs dependencies: `yarn install`
 Install PHP dependencies: `composer install`
 
 ### Configuration
-Add your local WordPress URL to [gulpfile](https://github.com/ams-engineering/theme-boilerplate/blob/main/gulpfile.js#L21).
+Add your local WordPress URL to gulpfile
 
 ### Development
 Run `yarn start` to start the project.
